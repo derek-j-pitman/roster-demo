@@ -1,2 +1,2 @@
-# roster-demo
+# class-roster
 Created with CodeSandbox
