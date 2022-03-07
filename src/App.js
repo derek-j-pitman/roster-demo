@@ -57,6 +57,7 @@ export default function App() {
   ));
   return (
     <div className="App">
+      <h1>My Cool Roster</h1>
       {rosterElements}
       <AddPerson
         updateRoster={(fName, lName) =>
